@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.Databricks.Client" Version="1.1.125.4" />
+    <PackageReference Include="Microsoft.Azure.DocumentDB" Version="2.2.3" />
+  </ItemGroup>
+
+</Project>
